@@ -1,24 +1,4 @@
 # README
+I'm running through [this tutorial](https://www.railstutorial.org/) to try to learn Rails.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+View in production [here](https://quiet-mesa-99405.herokuapp.com/)!
