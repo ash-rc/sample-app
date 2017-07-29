@@ -1,0 +1,6 @@
+<%= @user.name %>, <%= @user.email %>
+<p>
+<%= simple_format "Created at #{@user.created_at}\n" %>
+<%= simple_format "Updated at #{@user.updated_at}\n" %>
+<p>
+<%= simple_format "It is now #{Time.now}\n" %>
