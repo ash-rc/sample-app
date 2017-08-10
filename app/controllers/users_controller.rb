@@ -12,6 +12,7 @@ class UsersController < ApplicationController
     # is wicked insecure
     @user = User.new(user_params)
     if @user.save
+      flash[:success] = "Welcome to my Sample App ;)"
       redirect_to @user
     else
       render 'new'
